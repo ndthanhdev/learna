@@ -1,0 +1,13 @@
+{
+  "name": "@learna/operation",
+  "version": "0.0.1",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "@learna/one": "^0.0.1",
+    "@learna/two": "^0.0.1"
+  }
+}
